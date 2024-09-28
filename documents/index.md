@@ -12,3 +12,4 @@ Below are the links to important HOA documents:
 * [Tree Standards](https://docs.google.com/document/d/1ZF6VfPP4dMfRrFaGdaVELtHviUKNa4tW/edit) - detailed standards for tree heights and types.
 * [Fence Standards](fence-standards) - detailed standards for fence material and height.
 * [Parking Code](parking-code) - copy of the parking regulations of the City of Bothell, as detailed in Chapter 10.30 of the Bothell Municipal Code. It outlines various rules to ensure orderly and safe parking within the city, including prohibitions on parking near driveways, obstructing traffic, and parking within fire lanes and in front of mailboxes.
+* [Bylaws](bylaws) - bylaws for the HOA non-profit entity. 
