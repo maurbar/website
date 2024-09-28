@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /documents
 ---
 
 # Community Document
