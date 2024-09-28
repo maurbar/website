@@ -6,6 +6,8 @@ categories: general
 
 Source: [NCH Roof Standards](../assets/nch-roof-standards.pdf)
 
+**IMPORTANT - All roof replacements must be [approved](../contact) by the HOA board before installation according to the [NCH HOA Declaration](declaration#use-restrictions).**
+
 # Alternative Roofing Product Specifications
 Approved by North Creek Heights Board, September 2007
 
