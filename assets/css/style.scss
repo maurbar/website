@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    display: flex;
+    align-items: center;
+
+    .logo {
+        display: flex;
+        align-items: center;
+        margin-right: 10px; // Adjust spacing as needed
+    
+        img {
+          width: 100%; // Make the image width responsive
+          height: auto; // Maintain aspect ratio
+          max-width: 200px; // Set a maximum width as needed
+          min-width: 100px;
+        }
+    }
+}
+
+.main-content {
+    .btn {
+        color: #ffffff;
+        border-color: #159957;
+        background-color: #159957;
+
+        &:hover {
+            background-color: #159957cb; // Change background color on hover
+        }
+    }
+
+    img {
+        width: 100%;
+    }
+
+    img[alt=roof-design] { width: 100px; }
+}
+
+
+.project-name {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0;
+    font-weight: 200;
+    font-size: clamp(30px, 6.5vw, 58px); // Minimum 16px, preferred 6.5vw, maximum 48px
+}
+.project-tagline {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0;
+    font-weight: 200;
+    font-size: clamp(20px, 4vw, 40px); // Minimum 12px, preferred 4vw, maximum 32px
+}
+
+/* Helper class taken from Bootstrap.
+   Hides an element to all devices except screen readers.
+*/
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
