@@ -13,7 +13,7 @@ To contact the HOA please use the following email addresses:
 We request that you use the `hoaboard[at]nchhoa.net` address for general inquiries.
 This email address ensures that your inquiry is answered in a timely manner.
  
-For dues questions, please use `treasurer@nchhoa.net`
+For dues questions, please use `treasurer[at]nchhoa.net`
  
 If you have not already done so, take advantage of our [WhatsApp group](https://chat.whatsapp.com/LRKZu1oUfDc5q4gnZjee7V). Please use your name when joining so we know who you are.
 
