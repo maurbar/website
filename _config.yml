@@ -23,7 +23,7 @@ email: hoaboard@nchhoa.net
 description: >- # this means to ignore newlines until "baseurl:"
   Homeowners Association
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "nchhoa.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "nchhoa.net/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-cayman
