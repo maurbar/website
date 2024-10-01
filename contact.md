@@ -4,7 +4,7 @@ title: Contact Us
 ---
 # Contact Us
 
-To contact the HOA please use the following email addresses:
+To contact the HOA please use the following email addresses (replacing `[at]` with `@`):
 
 * HOA Board : `hoaboard[at]nchhoa.net`
 * HOA President: `president[at]nchhoa.net`
