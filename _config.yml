@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: North Creek Heights
-email: hoaboard@nchhoa.net
+title: Ten Mile Creek Phase III
+email: tenmilecreekhoa3@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homeowners Association
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "nchhoa.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "tenmilecreekphase3hoa.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-cayman
